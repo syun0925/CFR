@@ -29,7 +29,7 @@ test.sn.mean.each<-function(d2)  {
 }
 
 #######################################################
-## Mean test of cumulative PCs
+## Mean test of cumulative PC
 #######################################################
 ##d1 is the number of basis functions (or PCs) being considered; it can be chosen using the cumulative variation rule.
 test.sn.mean<-function(d1)  {
